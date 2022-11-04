@@ -4,3 +4,4 @@ Assignments from Probability and Statistics (Computer Sciences - University of B
 Topics:
 - Law of large numbers
 - Central limit theorem
+- Birthday paradox
