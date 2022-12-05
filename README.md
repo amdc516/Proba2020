@@ -1,4 +1,4 @@
-# Proba2020
+# Probability and Statistics 2020
 
 Assignments from Probability and Statistics (Computer Sciences - University of Buenos Aires) in the programming language R. 
 Topics:
